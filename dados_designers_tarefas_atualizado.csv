@@ -1,0 +1,151 @@
+Nome,Tempo,Complexidade,Entropia,Título Tarefa,Descrição Tarefa
+Julio,2.306298020922449,4,7.567034383008769,Tela de Aprovação de Vaga #1,Desenvolver botão de ação com animação responsiva
+Julio,1.5121512343019323,2,4.4377738636064334,Tela de Aprovação de Vaga #2,Criar layout para tela de login com suporte a temas escuro e claro
+Julio,2.8995334484755904,1,8.80801077366593,Tela de Visão da Vaga (Gestor) #3,Desenhar ícones personalizados para o menu lateral do aplicativo
+Julio,6.314730328465296,4,3.110436051410796,Tela de Visão da Vaga (Gestor) #4,Implementar fluxo de navegação para a nova funcionalidade de compartilhamento
+Julio,6.687417412650357,5,5.282033255544976,Tela de Aprovação de Vaga #5,Prototipar interações para a tela de configurações do usuário
+Julio,3.4508662315975807,1,7.525211879713328,Tela de Publicação de Vaga #6,Desenvolver animações para transições de tela no aplicativo móvel
+Julio,2.776896590071409,3,4.922052093433698,Tela de Sugestão de Vaga #7,Criar mockups de alta fidelidade para a nova seção de relatórios
+Julio,4.495490939981009,1,1.265966022909995,Tela de Sugestão de Vaga #8,Revisar e melhorar a experiência do usuário na funcionalidade de busca
+Julio,3.3000032009215223,3,5.082965575165965,Tela de Gerenciamento de Vagas (RH) #9,Desenvolver tema adaptativo para diferentes tamanhos de tela
+Julio,6.982451732549628,5,7.49981900440754,Tela de Aprovação de Vaga #10,Prototipar a nova interface do painel de controle de administração
+Julio,2.12703236145814,2,5.378540774563421,Tela de Publicação de Vaga #11,Elaborar design responsivo para a seção de FAQ do site
+Julio,4.681589414161168,4,4.218734023369588,Tela de Publicação de Vaga #12,Implementar design de interação para formulário de feedback do usuário
+Julio,1.881726948641736,5,1.7300761563795457,Tela de Aprovação de Vaga #13,Desenvolver wireframes para a nova página de landing do produto
+Julio,1.1521503469516778,3,7.322723860510619,Tela de Aprovação de Vaga #14,Criar storyboard para o tutorial de introdução do aplicativo
+Julio,2.429631542574826,5,5.145397724983285,Tela de Gerenciamento de Vagas (RH) #15,Revisar e atualizar o design da página de checkout do e-commerce
+Julio,3.633889103960941,2,4.571545323369503,Tela de Gerenciamento de Vagas (RH) #16,Descrição de tarefa adicional 1
+Julio,4.881882867894702,5,8.726356320565053,Tela de Visão da Vaga (Gestor) #17,Descrição de tarefa adicional 2
+Julio,1.3150382235418467,5,7.71095426170435,Tela de Publicação de Vaga #18,Descrição de tarefa adicional 3
+Julio,3.216429105984804,4,5.091118192339214,Tela de Sugestão de Vaga #19,Descrição de tarefa adicional 4
+Julio,4.00683722503573,2,7.107449981250186,Tela de Aprovação de Vaga #20,Descrição de tarefa adicional 5
+Julio,3.683246858222805,4,4.431971777242619,Tela de Publicação de Vaga #21,Descrição de tarefa adicional 6
+Julio,4.86876297302334,2,8.312063246553887,Tela de Gerenciamento de Vagas (RH) #22,Descrição de tarefa adicional 7
+Julio,3.046829289476912,3,4.523577095886485,Tela de Publicação de Vaga #23,Descrição de tarefa adicional 8
+Julio,7.2055352605008345,1,3.9194904099712495,Tela de Sugestão de Vaga #24,Descrição de tarefa adicional 9
+Julio,7.877356236872247,4,6.491487061248464,Tela de Sugestão de Vaga #25,Descrição de tarefa adicional 10
+Julio,7.735172898227391,5,5.60669539612189,Tela de Visão da Vaga (Gestor) #26,Descrição de tarefa adicional 11
+Julio,7.401990151347972,2,2.64394250738271,Tela de Publicação de Vaga #27,Descrição de tarefa adicional 12
+Julio,2.883000715148525,5,10.142945264162693,Tela de Sugestão de Vaga #28,Descrição de tarefa adicional 13
+Julio,5.502242302638693,4,5.342080146208227,Tela de Aprovação de Vaga #29,Descrição de tarefa adicional 14
+Julio,1.4005889962680071,2,4.1316572761007295,Tela de Aprovação de Vaga #30,Descrição de tarefa adicional 15
+Julio,4.391660417985307,2,8.87903319357302,Tela de Gerenciamento de Vagas (RH) #31,Descrição de tarefa adicional 16
+Julio,4.221613579334785,3,3.864019364043074,Tela de Publicação de Vaga #32,Descrição de tarefa adicional 17
+Julio,7.242527704271325,5,6.688955200060559,Tela de Sugestão de Vaga #33,Descrição de tarefa adicional 18
+Julio,4.161961123292757,3,1.3396654074919083,Tela de Sugestão de Vaga #34,Descrição de tarefa adicional 19
+Julio,5.57002292220113,1,3.4006421372391,Tela de Sugestão de Vaga #35,Descrição de tarefa adicional 20
+Julio,6.105256055619531,2,4.822211115466233,Tela de Sugestão de Vaga #36,Descrição de tarefa adicional 21
+Julio,2.659165577927721,3,8.78044299836439,Tela de Aprovação de Vaga #37,Descrição de tarefa adicional 22
+Julio,7.357492052267783,2,4.886761574360831,Tela de Gerenciamento de Vagas (RH) #38,Descrição de tarefa adicional 23
+Julio,3.5427399775030577,3,5.0908000860046805,Tela de Visão da Vaga (Gestor) #39,Descrição de tarefa adicional 24
+Julio,6.8205706474040335,1,2.576126669479906,Tela de Publicação de Vaga #40,Descrição de tarefa adicional 25
+Julio,5.989848830261093,3,9.447423329319044,Tela de Visão da Vaga (Gestor) #41,Descrição de tarefa adicional 26
+Julio,7.8519265693941085,3,8.557222803291946,Tela de Publicação de Vaga #42,Descrição de tarefa adicional 27
+Julio,7.528742812498732,3,3.9226720822812817,Tela de Aprovação de Vaga #43,Descrição de tarefa adicional 28
+Julio,1.0677882669470158,1,6.84767080047351,Tela de Visão da Vaga (Gestor) #44,Descrição de tarefa adicional 29
+Julio,4.637284296688743,3,7.964406495908857,Tela de Gerenciamento de Vagas (RH) #45,Descrição de tarefa adicional 30
+Julio,4.39471245388378,5,2.530705966530148,Tela de Aprovação de Vaga #46,Descrição de tarefa adicional 31
+Julio,6.21004121230273,5,4.677351371041905,Tela de Sugestão de Vaga #47,Descrição de tarefa adicional 32
+Julio,2.880776895194309,1,6.935285560548418,Tela de Sugestão de Vaga #48,Descrição de tarefa adicional 33
+Julio,1.901377592264008,1,3.115842934035655,Tela de Sugestão de Vaga #49,Descrição de tarefa adicional 34
+Julio,7.1251350203616415,4,3.0777752176907534,Tela de Aprovação de Vaga #50,Descrição de tarefa adicional 35
+Thaís,7.154349192172128,2,7.63671392690085,Tela de Gerenciamento de Vagas (RH) #51,Descrição de tarefa adicional 36
+Thaís,3.0060229301116337,3,2.1759650314033325,Tela de Gerenciamento de Vagas (RH) #52,Descrição de tarefa adicional 37
+Thaís,6.161558384662833,1,11.902117111381097,Tela de Visão da Vaga (Gestor) #53,Descrição de tarefa adicional 38
+Thaís,4.237008674816007,1,5.22057761430074,Tela de Aprovação de Vaga #54,Descrição de tarefa adicional 39
+Thaís,7.749401977388962,2,4.703713341425194,Tela de Publicação de Vaga #55,Descrição de tarefa adicional 40
+Thaís,7.957811053857371,1,7.797320004137981,Tela de Visão da Vaga (Gestor) #56,Descrição de tarefa adicional 41
+Thaís,5.223026054369346,5,8.353769919009421,Tela de Visão da Vaga (Gestor) #57,Descrição de tarefa adicional 42
+Thaís,6.1761157773942665,2,5.800324951629868,Tela de Visão da Vaga (Gestor) #58,Descrição de tarefa adicional 43
+Thaís,6.054724333554455,4,5.68440115016078,Tela de Sugestão de Vaga #59,Descrição de tarefa adicional 44
+Thaís,7.823777843668034,3,4.61286081649407,Tela de Aprovação de Vaga #60,Descrição de tarefa adicional 45
+Thaís,3.853885251629566,4,3.8758584921547854,Tela de Visão da Vaga (Gestor) #61,Descrição de tarefa adicional 46
+Thaís,2.736074147983215,5,3.902012494660638,Tela de Gerenciamento de Vagas (RH) #62,Descrição de tarefa adicional 47
+Thaís,7.004994226216337,3,1.7344834561881015,Tela de Aprovação de Vaga #63,Descrição de tarefa adicional 48
+Thaís,6.918398635037143,2,4.114355056213674,Tela de Sugestão de Vaga #64,Descrição de tarefa adicional 49
+Thaís,2.5880762383480462,2,3.094136564904997,Tela de Sugestão de Vaga #65,Descrição de tarefa adicional 50
+Thaís,2.8320782881199618,3,6.521852786341745,Tela de Aprovação de Vaga #66,Descrição de tarefa adicional 51
+Thaís,5.160808747366357,3,5.726395698604646,Tela de Gerenciamento de Vagas (RH) #67,Descrição de tarefa adicional 52
+Thaís,2.009465414291284,1,7.276505971293643,Tela de Gerenciamento de Vagas (RH) #68,Descrição de tarefa adicional 53
+Thaís,2.322275010158397,4,3.5613646425283987,Tela de Visão da Vaga (Gestor) #69,Descrição de tarefa adicional 54
+Thaís,5.2091712063066655,3,5.4308556722003605,Tela de Visão da Vaga (Gestor) #70,Descrição de tarefa adicional 55
+Thaís,6.761740808792923,4,7.18265524431548,Tela de Aprovação de Vaga #71,Descrição de tarefa adicional 56
+Thaís,7.84668215193366,1,5.782582390944207,Tela de Sugestão de Vaga #72,Descrição de tarefa adicional 57
+Thaís,1.5661713553008745,1,2.552752348458597,Tela de Publicação de Vaga #73,Descrição de tarefa adicional 58
+Thaís,6.087632437735257,2,6.626913350820389,Tela de Visão da Vaga (Gestor) #74,Descrição de tarefa adicional 59
+Thaís,6.39542240588867,2,6.552195636391319,Tela de Sugestão de Vaga #75,Descrição de tarefa adicional 60
+Thaís,3.73204828760476,4,3.187545316269268,Tela de Gerenciamento de Vagas (RH) #76,Descrição de tarefa adicional 61
+Thaís,1.7655880794413163,2,2.6015243027267934,Tela de Gerenciamento de Vagas (RH) #77,Descrição de tarefa adicional 62
+Thaís,4.578873593695535,1,1.509668201985109,Tela de Sugestão de Vaga #78,Descrição de tarefa adicional 63
+Thaís,1.4316042152577002,1,5.327552695273294,Tela de Gerenciamento de Vagas (RH) #79,Descrição de tarefa adicional 64
+Thaís,2.6397557456972622,5,3.302689872788515,Tela de Sugestão de Vaga #80,Descrição de tarefa adicional 65
+Thaís,2.0780108024792514,5,6.035020944417511,Tela de Sugestão de Vaga #81,Descrição de tarefa adicional 66
+Thaís,7.299759548894676,1,3.933077045459191,Tela de Sugestão de Vaga #82,Descrição de tarefa adicional 67
+Thaís,2.598911647790575,1,6.30383353551224,Tela de Sugestão de Vaga #83,Descrição de tarefa adicional 68
+Thaís,6.137588901309871,3,6.126433125228846,Tela de Gerenciamento de Vagas (RH) #84,Descrição de tarefa adicional 69
+Thaís,4.419475911663879,3,8.390703515820231,Tela de Sugestão de Vaga #85,Descrição de tarefa adicional 70
+Thaís,2.179721383237432,4,5.808505968950752,Tela de Publicação de Vaga #86,Descrição de tarefa adicional 71
+Thaís,6.215677026344244,1,2.579515431228153,Tela de Publicação de Vaga #87,Descrição de tarefa adicional 72
+Thaís,1.933020853636911,5,4.396200485425822,Tela de Gerenciamento de Vagas (RH) #88,Descrição de tarefa adicional 73
+Thaís,4.470377283543347,3,3.1804136917681647,Tela de Aprovação de Vaga #89,Descrição de tarefa adicional 74
+Thaís,2.932812835494816,5,4.052413659612644,Tela de Gerenciamento de Vagas (RH) #90,Descrição de tarefa adicional 75
+Thaís,1.4494963773813825,4,4.35616450931821,Tela de Publicação de Vaga #91,Descrição de tarefa adicional 76
+Thaís,5.531552268561488,1,3.6299721837160894,Tela de Gerenciamento de Vagas (RH) #92,Descrição de tarefa adicional 77
+Thaís,5.571541522509204,4,6.362526716578534,Tela de Sugestão de Vaga #93,Descrição de tarefa adicional 78
+Thaís,2.076734146447011,4,7.091133108253183,Tela de Publicação de Vaga #94,Descrição de tarefa adicional 79
+Thaís,6.880195975216958,4,2.6051471809189426,Tela de Publicação de Vaga #95,Descrição de tarefa adicional 80
+Thaís,1.5976756942100483,1,5.6488355774951104,Tela de Publicação de Vaga #96,Descrição de tarefa adicional 81
+Thaís,4.546504660153408,4,6.858677155567548,Tela de Sugestão de Vaga #97,Descrição de tarefa adicional 82
+Thaís,6.933457330724722,3,5.304196419568509,Tela de Gerenciamento de Vagas (RH) #98,Descrição de tarefa adicional 83
+Thaís,5.901272255197818,3,5.9319088888839335,Tela de Sugestão de Vaga #99,Descrição de tarefa adicional 84
+Thaís,4.020398528021869,3,5.1377723663106,Tela de Publicação de Vaga #100,Descrição de tarefa adicional 85
+Gabriela,1.3587250228641905,4,7.81070305138245,Tela de Publicação de Vaga #101,Descrição de tarefa adicional 86
+Gabriela,4.244506870160308,5,7.467263555168347,Tela de Sugestão de Vaga #102,Descrição de tarefa adicional 87
+Gabriela,6.748596652636596,2,3.65640788717766,Tela de Visão da Vaga (Gestor) #103,Descrição de tarefa adicional 88
+Gabriela,4.56108180194374,2,4.753640274944397,Tela de Sugestão de Vaga #104,Descrição de tarefa adicional 89
+Gabriela,1.2657475521674812,4,6.211049766894653,Tela de Sugestão de Vaga #105,Descrição de tarefa adicional 90
+Gabriela,6.259993191946342,4,5.710795594591502,Tela de Visão da Vaga (Gestor) #106,Descrição de tarefa adicional 91
+Gabriela,2.493983179636241,3,4.926531243408328,Tela de Visão da Vaga (Gestor) #107,Descrição de tarefa adicional 92
+Gabriela,2.666609520254746,2,5.42509293532086,Tela de Aprovação de Vaga #108,Descrição de tarefa adicional 93
+Gabriela,1.825318427850666,4,2.4631014281127115,Tela de Gerenciamento de Vagas (RH) #109,Descrição de tarefa adicional 94
+Gabriela,1.9848518481409312,1,2.16795100910801,Tela de Sugestão de Vaga #110,Descrição de tarefa adicional 95
+Gabriela,1.843414449017084,2,5.713646357647064,Tela de Gerenciamento de Vagas (RH) #111,Descrição de tarefa adicional 96
+Gabriela,4.8806188896177005,1,6.907543547902627,Tela de Visão da Vaga (Gestor) #112,Descrição de tarefa adicional 97
+Gabriela,3.086599955149948,4,2.0232817936667824,Tela de Sugestão de Vaga #113,Descrição de tarefa adicional 98
+Gabriela,3.0522150772090733,2,4.587874256889252,Tela de Gerenciamento de Vagas (RH) #114,Descrição de tarefa adicional 99
+Gabriela,2.0940322753807634,3,8.22590062113445,Tela de Gerenciamento de Vagas (RH) #115,Descrição de tarefa adicional 100
+Gabriela,4.636856887756941,5,3.707836177680157,Tela de Sugestão de Vaga #116,Descrição de tarefa adicional 101
+Gabriela,7.0153244831293815,5,2.7164855382521984,Tela de Sugestão de Vaga #117,Descrição de tarefa adicional 102
+Gabriela,3.5410503740248616,2,4.994421091353617,Tela de Aprovação de Vaga #118,Descrição de tarefa adicional 103
+Gabriela,1.4663946715106024,2,6.391941968732785,Tela de Sugestão de Vaga #119,Descrição de tarefa adicional 104
+Gabriela,4.006449592661061,4,1.708009404672914,Tela de Aprovação de Vaga #120,Descrição de tarefa adicional 105
+Gabriela,3.630693047843829,1,2.2482056432332502,Tela de Gerenciamento de Vagas (RH) #121,Descrição de tarefa adicional 106
+Gabriela,1.3502246995815272,5,7.002223828669399,Tela de Gerenciamento de Vagas (RH) #122,Descrição de tarefa adicional 107
+Gabriela,1.056872093933745,2,1.5881757527111915,Tela de Sugestão de Vaga #123,Descrição de tarefa adicional 108
+Gabriela,6.61714379349953,4,1.9870640141796585,Tela de Visão da Vaga (Gestor) #124,Descrição de tarefa adicional 109
+Gabriela,4.299231484416445,1,4.727418645260826,Tela de Publicação de Vaga #125,Descrição de tarefa adicional 110
+Gabriela,3.983980712429745,1,4.326462931046975,Tela de Sugestão de Vaga #126,Descrição de tarefa adicional 111
+Gabriela,3.570779754060921,2,6.267784704577289,Tela de Gerenciamento de Vagas (RH) #127,Descrição de tarefa adicional 112
+Gabriela,7.703110513801878,3,5.878991597725722,Tela de Aprovação de Vaga #128,Descrição de tarefa adicional 113
+Gabriela,4.518125282645603,4,2.329959108377929,Tela de Sugestão de Vaga #129,Descrição de tarefa adicional 114
+Gabriela,4.883423966017854,4,3.375099708243946,Tela de Gerenciamento de Vagas (RH) #130,Descrição de tarefa adicional 115
+Gabriela,3.9184196030712,5,7.527220872406191,Tela de Sugestão de Vaga #131,Descrição de tarefa adicional 116
+Gabriela,3.821888704470553,4,5.736679803207368,Tela de Sugestão de Vaga #132,Descrição de tarefa adicional 117
+Gabriela,6.470268093094719,1,6.587692317659533,Tela de Aprovação de Vaga #133,Descrição de tarefa adicional 118
+Gabriela,7.558813154306574,1,5.361625719869549,Tela de Gerenciamento de Vagas (RH) #134,Descrição de tarefa adicional 119
+Gabriela,1.0711403025055914,5,3.3558070246049168,Tela de Publicação de Vaga #135,Descrição de tarefa adicional 120
+Gabriela,7.608037777330167,2,3.912192223482349,Tela de Sugestão de Vaga #136,Descrição de tarefa adicional 121
+Gabriela,4.7392594143234605,2,3.1494622338269584,Tela de Gerenciamento de Vagas (RH) #137,Descrição de tarefa adicional 122
+Gabriela,6.168955188466165,1,6.997031489159255,Tela de Sugestão de Vaga #138,Descrição de tarefa adicional 123
+Gabriela,4.667471209835647,1,9.947360801677611,Tela de Publicação de Vaga #139,Descrição de tarefa adicional 124
+Gabriela,2.046414935179721,3,4.120530014413861,Tela de Publicação de Vaga #140,Descrição de tarefa adicional 125
+Gabriela,3.933080704107725,5,4.108368217963758,Tela de Publicação de Vaga #141,Descrição de tarefa adicional 126
+Gabriela,1.925610152376199,4,3.2448028664826136,Tela de Gerenciamento de Vagas (RH) #142,Descrição de tarefa adicional 127
+Gabriela,2.1220519529206654,1,8.15945928891689,Tela de Sugestão de Vaga #143,Descrição de tarefa adicional 128
+Gabriela,7.577004499157463,5,5.836842150473573,Tela de Aprovação de Vaga #144,Descrição de tarefa adicional 129
+Gabriela,6.400395117381693,3,0.623315858146972,Tela de Sugestão de Vaga #145,Descrição de tarefa adicional 130
+Gabriela,7.015813583728548,1,5.452667669680666,Tela de Aprovação de Vaga #146,Descrição de tarefa adicional 131
+Gabriela,3.4601523086560726,4,4.730161592946924,Tela de Aprovação de Vaga #147,Descrição de tarefa adicional 132
+Gabriela,1.839629378183247,5,5.539998530803751,Tela de Publicação de Vaga #148,Descrição de tarefa adicional 133
+Gabriela,4.249569540042828,5,7.051589611250293,Tela de Publicação de Vaga #149,Descrição de tarefa adicional 134
+Gabriela,1.7219268595606412,5,4.951663559629116,Tela de Gerenciamento de Vagas (RH) #150,Descrição de tarefa adicional 135
